@@ -1,2 +1,2 @@
 # DabinSocial
-Best social network
+A social network I wrote a while back
