@@ -1,0 +1,60 @@
+body
+{
+    background-color: #f0f0f0;
+
+    font-family: 'Open Sans' sans-serif;
+    text-align: center;
+}
+
+p
+{
+    font-size: 0.75em !important;
+}
+
+form
+{
+    padding: 0px;
+}
+
+label
+{
+    font-size: 0.5em !important;
+}
+
+a:link, a:visited
+{
+    background-color: #333;
+    color: white;
+    padding: 5px 5px;
+}
+
+.main
+{
+    font-size: 3em;
+
+    width: 80%;
+    margin: auto;
+}
+
+footer
+{
+    padding: 50px 0px;
+
+    font-size: 1em;
+}
+
+.btn
+{
+    color: white !important;
+}
+
+.btn:hover
+{
+    color: #e6e6e6 !important;
+}
+
+.submit-btn,
+.submit-btn:hover
+{
+    color: #000 !important;
+}
